@@ -1,7 +1,7 @@
 # BBG Wireless Fast Boot
 
 Buildroot external tree (`BR2_EXTERNAL`) for BeagleBone Green Wireless.
-Boots to AP-ENABLED in **4.05 seconds** from power-on.
+Boots to AP-ENABLED in **4.06 seconds** from power-on.
 
 ## Environment
 
